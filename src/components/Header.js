@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Header = () => (
   <nav className="nav-wrapper red lighten-1">
@@ -8,4 +8,4 @@ const Header = () => (
   </nav>
 )
 
-export default Header
+export default Header;

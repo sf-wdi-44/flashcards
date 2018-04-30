@@ -1,7 +1,6 @@
-import React, { Component } from 'react'
-import Flashcard from './Flashcard'
-import axios from 'axios'
-import { CLIENT_URL } from '../constants.js'
+import React, { Component } from 'react';
+import axios from 'axios';
+import { CLIENT_URL } from '../constants.js';
 
 class FlashcardContainer extends Component {
 
@@ -13,4 +12,4 @@ class FlashcardContainer extends Component {
   }
 }
 
-export default FlashcardContainer
+export default FlashcardContainer;

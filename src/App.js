@@ -1,7 +1,7 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 
-import Header from './components/Header'
-import FlashcardContainer from './components/FlashcardContainer'
+import Header from './components/Header';
+import FlashcardContainer from './components/FlashcardContainer';
 
 class App extends Component {
   render () {
@@ -14,4 +14,4 @@ class App extends Component {
   }
 }
 
-export default App
+export default App;

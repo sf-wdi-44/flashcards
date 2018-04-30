@@ -1,14 +1,13 @@
-import React, { Component } from 'react'
-import Definition from './Definition'
+import React, { Component } from 'react';
 
 class Flashcard extends Component {
   render() {
     
     return (
-      <div class="card">
+      <div className="card">
       </div>
     )
   }
 }
 
-export default Flashcard
+export default Flashcard;
